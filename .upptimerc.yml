@@ -18,8 +18,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mbaharip.me
 #   baseUrl: /upptime
-  logoUrl: https://cdn.mbaharip.me/api?path=/logo_mark.svg&raw=true
-  faviconSvg: https://cdn.mbaharip.me/api?path=/logo_mark.svg&raw=true
+  logoUrl: https://cdn.mbaharip.me/api?path=/favicon.svg&raw=true
+  faviconSvg: https://cdn.mbaharip.me/api?path=/favicon.svg&raw=true
   name: mbahArip Status
   theme: night
   introTitle: ""
