@@ -34,6 +34,7 @@ status-website:
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
 
-
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
