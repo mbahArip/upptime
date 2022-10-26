@@ -21,6 +21,7 @@ status-website:
   logoUrl: https://cdn.mbaharip.me/api?path=/logo_mark.svg&raw=true
   faviconSvg: https://cdn.mbaharip.me/api?path=/logo_mark.svg&raw=true
   name: mbahArip Status
+  theme: dark
   introTitle: ""
   introMessage: 
   navbar:
